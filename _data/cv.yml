@@ -71,7 +71,14 @@
       #   - Description 1.
       #   - Description 2.
 
+- title: Languages
+  type: list
+  contents:
+    - 'Mandarin: Native'
+    - 'Japanese: JLPT N1 174/180'
+    - 'English: TOEFL 99/120'
+
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Sekiro.
+    - <u>Hobbies:</u> Sekiro, Language Learning.
