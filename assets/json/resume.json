@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Jiawei Qin",
-    "label": "PhD student",
+    "label": "",
     "image": "",
     "email": "jqin@iis.u-tokyo.ac.jp",
     "phone": "",
     "url": "",
-    "summary": "PhD student at the University of Tokyo.",
+    "summary": "",
     "location": {
       "address": "",
       "postalCode": "153-8505",
@@ -39,17 +39,17 @@
       "institution": "The University of Tokyo",
       "location": "Tokyo, Japan",
       "url": "",
-      "area": "Computer Vision",
-      "studyType": "PhD",
+      "area": "Sugano Lab, Institute of Industrial Science",
+      "studyType": "PhD in Information and Communication Engineering",
       "startDate": "2021-10",
-      "endDate": "2025"
+      "endDate": "present"
     },
     {
       "institution": "The University of California, San Diego",
       "location": "San Diego, USA",
       "url": "",
-      "area": "Computer Engineering",
-      "studyType": "Master",
+      "area": "",
+      "studyType": "Master of Science in Computer Engineering",
       "startDate": "2018-09",
       "endDate": "2019-12"
     }
@@ -61,16 +61,6 @@
       "releaseDate": "1905-06-30",
       "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
       "summary": "Gaze estimation."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics"
-      ]
     }
   ],
   "languages": [
@@ -93,17 +83,7 @@
   "interests": [
     {
       "name": "Sekiro",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "die"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor ",
-      "icon": "fa-solid fa-laptop",
-      "reference": ""
+      "icon": "fa-solid fa-tag"
     }
   ]
 }
