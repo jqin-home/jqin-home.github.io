@@ -59,7 +59,7 @@
 #       items:
 #         - Max Planck Medal
 
-- title: Academic Interests
+- title: Research Interests
   type: nested_list
   contents:
     - title: Gaze Estimation
@@ -71,7 +71,7 @@
       #   - Description 1.
       #   - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Sekiro, Language Learning.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Sekiro, Language Learning.
