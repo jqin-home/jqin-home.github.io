@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am visiting the [Computer Vision Lab](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab/) of Delft University of Technology, working with [Xucong Zhang](https://www.ccmitss.com/zhang).
+I am visiting the [Computer Vision Lab](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab/) of Delft University of Technology, working with [Xucong Zhang](https://www.ccmitss.com/zhang), until Dec. 2024.
