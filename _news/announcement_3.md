@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-06-10 12:00:00-0400
+date: 2025-05-01 12:00:00-0400
 inline: true
 related_posts: false
 ---
 
-I am visiting the [Computer Vision Lab](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab/) of Delft University of Technology, working with [Xucong Zhang](https://www.ccmitss.com/zhang), until Dec. 2024.
+Released the reconstruction and rendering code for generating [MPII-NV](https://github.com/ut-vision/Gaze-NV-Rendering) and [XGaze3D](https://github.com/ut-vision/XGaze3D).
