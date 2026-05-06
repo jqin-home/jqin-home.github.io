@@ -18,5 +18,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a 3rd-year doctoral student at the University of Tokyo in Japan, supervised by [Prof. Yusuke Sugano](https://www.yusuke-sugano.info/).
-My research focuses on computer vision, gaze estiamtion, and face synthesis. 
+I completed my Ph.D. at the University of Tokyo in 2025, supervised by [Prof. Yusuke Sugano](https://www.yusuke-sugano.info/).
+My research focuses on gaze estiamtion, computer vision, and face synthesis. 
